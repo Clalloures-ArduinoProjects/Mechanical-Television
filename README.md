@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Mechanical Television
 
+## O Que é nosso trabalho?
 You can use the [editor on GitHub](https://github.com/Clalloures-ArduinoProjects/Mechanical-Television/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Material Necessário:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+## Passos a Passo
+Para ter acesso ao passo a passo, acesse o link abaixo:
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Conclusões
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Clalloures-ArduinoProjects/Mechanical-Television/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Por ser nosso primeiro projeto, tivemos que enfrentar certas barreitas. Porém, foram de grande importância para nossas futuras criações. Entre elas está:
+ 
+ - Pernsar sobre como iremos encaixar as peças, de forma que crie uma estrutura fixa e resistente aos movimentos do motor.
+ - Pensar no encaixe necessário na peça em que será colocado o motor. Em nosso trabalho não haviamos pensando nisso, e tivemos que fazer os futuros posteriormente, para encaixar os parafusos. Isso acabou levando a formação de uma rachadura na estrutura.
+ - Criar uma lista de materiais e passar um bom tempo planejando as estruturas e pensando sobre os possíveis problemas que podem vir a surgir. Isso ajuda a já se ter medidas para evitar algumas situações e colabora para um aperfeicoamento do nosso processo de projeto.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
