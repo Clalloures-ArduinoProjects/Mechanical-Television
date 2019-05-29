@@ -6,8 +6,8 @@
     - [O Que é uma televisão mecânica?](#o-que-é-uma-televisão-mecânica)
     - [Material Necessário](#material-necessário)
     - [Passo a Passo](#passo-a-passo)
-    - [Possiveis alterações futuras](#possiveis-alterações-futuras)
     - [Conclusões](#conclusões)
+        - [Possiveis alterações futuras](#possiveis-alterações-futuras)
 
 
 ### O Que é nosso trabalho?
@@ -36,16 +36,18 @@ Televisão mecânica ou televisão de varredura mecânica é um sistema de telev
 - [Montagem das peças]
 - [Criação do Código](https://github.com/Clalloures-ArduinoProjects/Mechanical-Television/blob/master/codigo_tv)
 
- ## Possiveis alterações futuras
- - Tentar implementar o encoder;
- - Ententar colocar um código que gere uma imagem mais estável;
-
-
 ## Conclusões
+1. Os desafios
 
 Por ser nosso primeiro projeto, tivemos que enfrentar certas barreitas. Porém, foram de grande importância para nossas futuras criações. Entre elas está:
  
- - Pernsar sobre como iremos encaixar as peças, de forma que crie uma estrutura fixa e resistente aos movimentos do motor.
- - Pensar no encaixe necessário na peça em que será colocado o motor. Em nosso trabalho não haviamos pensando nisso, e tivemos que fazer os futuros posteriormente, para encaixar os parafusos. Isso acabou levando a formação de uma rachadura na estrutura.
- - Criar uma lista de materiais e passar um bom tempo planejando as estruturas e pensando sobre os possíveis problemas que podem vir a surgir. Isso ajuda a já se ter medidas para evitar algumas situações e colabora para um aperfeicoamento do nosso processo de projeto.
+    - Pernsar sobre como iremos encaixar as peças, de forma que crie uma estrutura fixa e resistente aos movimentos do motor.
+    - Pensar no encaixe necessário na peça em que será colocado o motor. Em nosso trabalho não haviamos pensando nisso, e tivemos que fazer os futuros posteriormente, para encaixar os parafusos. Isso acabou levando a formação de uma rachadura na estrutura.
+    - Criar uma lista de materiais e passar um bom tempo planejando as estruturas e pensando sobre os possíveis problemas que podem vir a surgir. Isso ajuda a já se ter medidas para evitar algumas situações e colabora para um aperfeicoamento do nosso processo de projeto.
+ 
+ 2. Possiveis alterações futuras
+    - Tentar implementar o encoder;
+    - Ententar colocar um código que gere uma imagem mais estável;
+
+
  
