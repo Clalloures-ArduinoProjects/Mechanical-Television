@@ -37,3 +37,6 @@ Por ser nosso primeiro projeto, tivemos que enfrentar certas barreitas. Porém, 
  
  ## Possiveis alterações futuras
 
+ - Tentar implementar o encoder;
+ - Ententar colocar um código que gere uma imagem mais estável;
+
