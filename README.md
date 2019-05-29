@@ -6,8 +6,9 @@
     - [O Que é uma televisão mecânica?](#o-que-é-uma-televisão-mecânica)
     - [Material Necessário](#material-necessário)
     - [Passo a Passo](#passo-a-passo)
-    - [Conclusões](#conclusões)
     - [Possiveis alterações futuras](#possiveis-alterações-futuras)
+    - [Conclusões](#conclusões)
+
 
 ### O Que é nosso trabalho?
 Este trabalho foi desenvolvido para a disciplina de Introdução a Engenharia de Controle e Automação. Os integrantes do grupo decidiram pela criação de uma televisão mecânica. 
@@ -35,6 +36,11 @@ Televisão mecânica ou televisão de varredura mecânica é um sistema de telev
 - [Montagem das peças]
 - [Criação do Código](https://github.com/Clalloures-ArduinoProjects/Mechanical-Television/blob/master/codigo_tv)
 
+ ## Possiveis alterações futuras
+ - Tentar implementar o encoder;
+ - Ententar colocar um código que gere uma imagem mais estável;
+
+
 ## Conclusões
 
 Por ser nosso primeiro projeto, tivemos que enfrentar certas barreitas. Porém, foram de grande importância para nossas futuras criações. Entre elas está:
@@ -43,8 +49,3 @@ Por ser nosso primeiro projeto, tivemos que enfrentar certas barreitas. Porém, 
  - Pensar no encaixe necessário na peça em que será colocado o motor. Em nosso trabalho não haviamos pensando nisso, e tivemos que fazer os futuros posteriormente, para encaixar os parafusos. Isso acabou levando a formação de uma rachadura na estrutura.
  - Criar uma lista de materiais e passar um bom tempo planejando as estruturas e pensando sobre os possíveis problemas que podem vir a surgir. Isso ajuda a já se ter medidas para evitar algumas situações e colabora para um aperfeicoamento do nosso processo de projeto.
  
- ## Possiveis alterações futuras
-
- - Tentar implementar o encoder;
- - Ententar colocar um código que gere uma imagem mais estável;
-
