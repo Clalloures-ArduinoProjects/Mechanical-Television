@@ -1,6 +1,7 @@
 # Mechanical Television
 
-## O Que é nosso trabalho?
+
+### O Que é nosso trabalho?
 Este trabalho foi desenvolvido para a disciplina de Introdução a Engenharia de Controle e Automação. Os integrantes do grupo decidiram pela criação de uma televisão mecânica. 
 
 #### O QUE É UMA TELEVISÂO MECÂNICA?
@@ -21,9 +22,10 @@ Televisão mecânica ou televisão de varredura mecânica é um sistema de telev
 - Material para fixação das peças
 
 ## Passos a Passo
-Para ter acesso ao passo a passo, acesse o link abaixo:
-[Link](url) and ![Image](src)
-
+- [Criação do Disco](https://github.com/Clalloures-ArduinoProjects/Mechanical-Television/blob/master/Circulo-Plot.pdf)
+- [Criação da Casca da televisão](https://github.com/Clalloures-ArduinoProjects/Mechanical-Television/blob/master/Casca-Plot.pdf)
+- [Montagem das peças]
+- [Criação do Código](https://github.com/Clalloures-ArduinoProjects/Mechanical-Television/blob/master/codigo_tv)
 
 ## Conclusões
 
